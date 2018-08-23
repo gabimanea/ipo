@@ -1,0 +1,9 @@
+/* CSS Files */
+@charset "UTF-8";
+[rel="external"]::after
+{
+    content: ' ↗ ';
+}
+body {
+	/*font-family: Helvetica, sans-serif;*/
+}
